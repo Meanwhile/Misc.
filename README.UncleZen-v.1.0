@@ -1,0 +1,42 @@
+
+Uncle Zen's Brain for BeSam v1.0 
+by Meanwhile
+
+===========================
+
+ 
+> Running the file:  
+
+The three ways to run a Brain-file are described in BeSam's Readme file. 
+
+
+> Writing your own Brain:
+
+Writing your own Brain-file is really simple.
+In addition to the essential info given by the developer of BeSam (Kevin P. Albrecht) in his Readme file, here are some -less important- remarks that still may be relevant to you:
+
++ If set up precisely according to the rules of Kevin's 'Brain Scripting Language' and saved with a .brn extension, your script will have turned into a Brain, recognizable by its associated icon. StyledEdit was used for writing Uncle Zen's Brain-file. As of the Silent Update version UZ has its own custom icon.
+If needed, you can set the MIME setting of your Brain-file by using the FileType add-on and select 'text/x-vnd.kpa-sambrain'.
+
++ For user-convenience, I made sure to have Uncle Zen's replies fit into the reply bar at BeSam's default window size -even though it can be resized. This also keeps up the speed of the conversation.
+Anyhow, you'll probably find that the limited maximum size of a Brain (16 KB) forces you to keep your replies short for variety's sake.
+
++ Writing a Brain is within reach for non-tech people and may well suit those who feel they have a literary gift and/or high levels of empathy, or are (self-proclaimed) skilled observers in social settings. *You may want to pass this information on to others if you didn't recognize yourself just now...*
+
+
+> Development:
+
+A possible version 2.0 will depend on BeSam's development. (Version 1.0 made use of BeSam's latest version -being version 2.1.0 - Interpreter Version 5.1.0, dated July 30th 1999)
+
+
+> Thank you:
+
+Thank you Kevin P. Albrecht for creating BeSam!
+
+
+> Feedback:
+
+Any questions or comments you might have are perhaps best posted at Uncle Zen's download page on BeBits -by making use of the site's Talkback feature.
+
+
+===========================
