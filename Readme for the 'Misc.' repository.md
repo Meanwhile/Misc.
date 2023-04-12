@@ -1,1 +1,3 @@
-# Readme for the 'Misc.' repository.
+# Readme for the 'Misc.' repository
+
+This repository contains:
