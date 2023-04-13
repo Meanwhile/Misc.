@@ -10,7 +10,7 @@ Info on what's in this 'Misc.' repository:
 
 *Uncle Zen.brn* - The original Turing test beating brain file for BeSam that I wrote many years ago.
 
-*haikus* - Several collected Haiku's that were once published on a wiki on the haiku-os.org website.
+*haikus* - Several collected Haikus that were once published on a wiki on the haiku-os.org website.
 
 
 Some related links:
