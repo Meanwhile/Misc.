@@ -1,7 +1,7 @@
 # Misc.
 Info on what's in this 'Misc.' repository:
 
-BBI3.1.png - A before/after showing the contents of BeBeautifiedIcons3.1.zip
+BBI3.1.png - A before/after image showing the contents of BeBeautifiedIcons3.1.zip
 
 BeBeautifiedIcons3.1.zip - A collection of BeOS icons I made long ago. Note the .zip has a Readme with some outdated info.
 
