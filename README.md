@@ -1,6 +1,7 @@
 # Misc.
 Info on what's in this 'Misc.' repository:
 
+
 *BBI3.1.png* - A before/after image showing the contents of BeBeautifiedIcons3.1.zip
 
 *BeBeautifiedIcons3.1.zip* - A collection of BeOS icons I made long ago. Note the info in its Readme is partly outdated by now.
@@ -10,34 +11,6 @@ Info on what's in this 'Misc.' repository:
 *Uncle Zen.brn* - The original Turing test beating brain file for BeSam that I wrote many years ago.
 
 *haikus* - Several collected Haiku's that were once published on a wiki on the haiku-os.org website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Some related links:
