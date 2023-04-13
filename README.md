@@ -1,6 +1,17 @@
 # Misc.
 Info on what's in the 'Misc.' repository:
 
+BBI3.1.png - A before/after showing the contents of BeBeautifiedIcons3.1.zip
+
+BeBeautifiedIcons3.1.zip - A collection of BeOS icons I made long ago. Note the .zip has a Readme with some outdated info.
+
+README.UncleZen-V.1.0 - A Readme for this .brn file that works in BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
+
+Uncle Zen.brn - The original Turing test beating brain file that I wrote many years ago.
+
+haikus - Several collected Haiku's that were once published on a wiki on the haiku-os.org website. 
+
+
 
 
 
@@ -30,4 +41,5 @@ Info on what's in the 'Misc.' repository:
 
 Some related links: 
 My old blog - https://beosmeanwhilehaiku.wordpress.com/
+
 Flickr page - https://www.flickr.com/photos_user.gne?path=&nsid=40897190%40N08&page=&details=1
