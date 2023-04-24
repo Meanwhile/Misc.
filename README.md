@@ -10,6 +10,8 @@ Info on what's in this 'Misc.' repository:
 
 *README.md* - The Readme you're reading now.
 
+*SLRS1.01.zip* - A splashscreen and throbber, once used for the BeOS version of Seamonkey. SLRS means 'Seamonkey Logo Replacement Suite'.
+
 *Uncle Zen.brn* - The original Turing test beating brain file for BeSam that I wrote many years ago.
 
 *UZss.png* - Screenshot once used on BeBits.com, showing BeSam in action.
