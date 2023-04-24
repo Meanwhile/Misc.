@@ -18,6 +18,8 @@ Info on what's in this 'Misc.' repository:
 
 *haikus* - Several collected Haikus that were once published on a wiki on the haiku-os.org website.
 
+*throbber-animated.gif* - The throbber from SLRS in action.
+
 
 Some related links:
 
