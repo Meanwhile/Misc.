@@ -14,7 +14,7 @@ Info on what's in this 'Misc.' repository:
 
 *Uncle Zen.brn* - The original Turing test beating brain file for BeSam I wrote many years ago.
 
-*UZss.png* - Screenshot once used on BeBits.com, showing BeSam in action.
+*UZss.png* - Screenshot once used on BeBits.com to show BeSam in action.
 
 *haikus* - Several collected Haikus that were once published on a wiki on the haiku-os.org website.
 
