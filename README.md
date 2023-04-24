@@ -8,6 +8,8 @@ Info on what's in this 'Misc.' repository:
 
 *README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that works in BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
 
+*README.md* - The Readme you're reading now...
+
 *Uncle Zen.brn* - The original Turing test beating brain file for BeSam that I wrote many years ago.
 
 *haikus* - Several collected Haikus that were once published on a wiki on the haiku-os.org website.
