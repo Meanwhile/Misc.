@@ -4,7 +4,7 @@ Info on what's in this 'Misc.' repository:
 
 *BBI3.1.png* - A before/after image showing the contents of BeBeautifiedIcons3.1.zip
 
-*BeBeautifiedIcons3.1.zip* - A collection of BeOS icons I made long ago. Note the info in its Readme is partly outdated by now.
+*BeBeautifiedIcons3.1.zip* - A collection of BeOS replacement icons I made long ago. Note the info in its Readme is partly outdated by now.
 
 *README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that works in BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
 
