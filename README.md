@@ -6,7 +6,7 @@ Info on what's in this 'Misc.' repository:
 
 *BeBeautifiedIcons3.1.zip* - A collection of BeOS replacement icons I made long ago. Note the info in its Readme is partly outdated by now.
 
-*README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that works in BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
+*README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that loads into BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
 
 *README.md* - The Readme you're reading now.
 
