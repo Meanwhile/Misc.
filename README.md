@@ -12,7 +12,7 @@ Info on what's in this 'Misc.' repository:
 
 *SLRS1.01.zip* - A splashscreen and throbber designed for the BeOS version of Seamonkey (SLRS stands for 'Seamonkey Logo Replacement Suite').
 
-*Uncle Zen.brn* - The original (Turing test beating) brain file for BeSam I wrote many years ago.
+*Uncle Zen.brn* - The original (Turing test-beating) brain file for BeSam I wrote many years ago.
 
 *UZss.png* - Screenshot once used on BeBits.com showing BeSam in action.
 
