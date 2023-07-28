@@ -28,3 +28,5 @@ My old blog - https://beosmeanwhilehaiku.wordpress.com/
 Flickr page - https://www.flickr.com/groups/haiku-os/pool/40897190@N08
 
 BeSam download page - https://www.kevinalbrecht.com/code/sam/index.html
+
+Netpositive Haiku error messages - https://8325.org/haiku/
