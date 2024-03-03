@@ -6,6 +6,8 @@ Info on what's in this 'Misc.' repository:
 
 *BeBeautifiedIcons3.1.zip* - A collection of BeOS replacement icons I made long ago. Note the info in its Readme is partly outdated by now.
 
+*PalmHaiku.mp4 - Old video of Haiku icons in action on a Palm Pre. Placed here because the link on my Flickr page doesn't seem to work anymore.
+
 *README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that loads into Kevin Albrecht's BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
 
 *README.md* - The Readme you're reading now.
