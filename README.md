@@ -32,3 +32,5 @@ Flickr page - https://www.flickr.com/photos/40897190@N08/albums/7215762171065748
 BeSam download page - https://www.kevinalbrecht.com/code/sam/index.html
 
 Netpositive Haiku error messages - https://8325.org/haiku/
+
+Homeless BeOS app shelter - https://archive.org/details/@_meanwhile_
