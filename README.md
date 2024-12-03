@@ -33,4 +33,4 @@ BeSam download page - https://www.kevinalbrecht.com/code/sam/index.html
 
 Netpositive Haiku error messages - https://8325.org/haiku/
 
-Homeless BeOS app shelter - https://archive.org/details/@_meanwhile_
+Homeless BeOS app shelter - https://archive.org/details/@_meanwhile_/
