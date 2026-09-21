@@ -26,7 +26,7 @@ Info on what's in this 'Misc.' repository:
 
 *throbber-animated.gif* - The throbber from SLRS in action.
 
-
+---------------------------------------------------------------------------------------------------
 Some related links:
 
 Screenshot of both the 'Haiku overlay.hvif' and 'Harddisk Haiku.hvif' icons on the desktop - https://beosmeanwhilehaiku.wordpress.com/wp-content/uploads/2026/09/haikuhd.png
