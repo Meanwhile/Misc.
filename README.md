@@ -6,6 +6,10 @@ Info on what's in this 'Misc.' repository:
 
 *BeBeautifiedIcons3.1.zip* - A collection of BeOS replacement icons I made long ago. Note the info in its Readme is partly outdated by now.
 
+*Haiku overlay.hvif* - The overlay used in 'Harddisk Haiku.hvif'. See screenshot link below.  
+
+*Harddisk Haiku.hvif* - A combined icon to identify your mounted Haiku partition/HD, in addition to the already existing 'Be' and 'Zeta' varieties. See screenshot link below.
+
 *PalmHaiku.mp4* - Old video of Haiku icons in action on a Palm Pre. Placed here because the link on my Flickr page doesn't seem to work anymore.
 
 *README.UncleZen-V.1.0* - A Readme for the Uncle Zen.brn file that loads into Kevin Albrecht's BeSam, the Scriptable Artificial Mind for BeOS (text has been updated).
@@ -24,6 +28,8 @@ Info on what's in this 'Misc.' repository:
 
 
 Some related links:
+
+Screenshot of both the 'Haiku overlay.hvif' and 'Harddisk Haiku.hvif' icons on the desktop - https://beosmeanwhilehaiku.wordpress.com/wp-content/uploads/2026/09/haikuhd.png
 
 My old blog - https://beosmeanwhilehaiku.wordpress.com/
 
